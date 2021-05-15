@@ -21,5 +21,8 @@ Our R-squared value is 71.5%, which means roughly ~71% of the time the model wil
 
 Lot 1 and Lot 2 are both within design specifications, since they are both far below the 100 variance of the suspension coils at 0.98 and 7.47 respectively. Lot 3 shows the highest variance at over 170 and exceeds the manufacturers specifications of over 100 pounds per square inch.
 
+### Screenshot of Total Summary Below
 ![Screenshot!](./Images/Deliverable_2_total.png)
+
+### Screenshot of Lot Summary Below
 ![Screenshot!](./Images/Deliverable_2_lot.png)
