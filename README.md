@@ -12,5 +12,6 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 
 Our R-squared value is 71.5%, which means roughly ~71% of the time the model will predict MPG values correctly. There are probably outside factors that are not captured in the current datasaet that contribute to the mpg variability of the MechaCar prototypes. The current dataset could also need a more robust sample in order to have a higher probabily of being accurate. 
 
-![Screenshot!] (./MechaCar_Statistical_Analysis/Images/Deliverable_1_Linear_Regression.png)
+![Screenshot!](./Images/Deliverable_1_Linear_Regression.png)
 
+#![Screenshot](./Module_14_Challenge/Challenge_14_images/User_Trips_by_Gender.png)
