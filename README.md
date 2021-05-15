@@ -26,3 +26,19 @@ Lot 1 and Lot 2 are both within design specifications, since they are both far b
 
 ### Screenshot of Lot Summary Below
 ![Screenshot!](./Images/Deliverable_2_lot.png)
+
+## T-Tests on Suspension Coils
+
+Lot 1 and Lot 3 the PSI values are not different from the population mean. However lot 2 the p-value is .347 which means there is evidence that the suspension coil is different from the population mean. 
+
+### Screenshot of Total Below
+![Screenshot!](./Images/T-Test_Total.png)
+
+### Screenshot of Lot 1 Below
+![Screenshot!](./Images/T_Test_Lot1.png)
+
+### Screenshot of Lot 2 Below
+![Screenshot!](./Images/T_Test_Lot2.png)
+
+### Screenshot of Lot 3 Below
+![Screenshot!](./Images/T_Test_Lot3.png)
