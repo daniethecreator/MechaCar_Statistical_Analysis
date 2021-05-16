@@ -29,7 +29,7 @@ Lot 1 and Lot 2 are both within design specifications, since they are both far b
 
 ## T-Tests on Suspension Coils
 
-For the total summary, Lot 1 and Lot 2, the PSI values are different from the population mean of 1500 because they have a p-value of over .05. However; for lot 3 the p-value is under 0.05 which means there is evidence that the suspension coil is different from the 1500 population mean. 
+For the total summary, Lot 1 and Lot 2, the PSI values are different from the population mean of 1500 because they have a p-value of over .05. However; for lot 3 the p-value is under 0.05 at 0.042 which means there is evidence that the suspension coil is different from the 1500 population mean. 
 
 ### Screenshot of Total Below
 ![Screenshot!](./Images/T-Test_Total.png)
