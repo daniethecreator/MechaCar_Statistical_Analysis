@@ -48,14 +48,18 @@ For the total summary, Lot 1 and Lot 2, the PSI values are not statistically dif
 
 **Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.**
 
-In order to quantify how the MecahCar performs against the compeition, I would look at mpg, highway fuel efficiency, cost, safty rating, and torque as the comparison metrics. 
+In order to quantify how the MecahCar performs against the compeition, I would look at mpg, highway fuel efficiency, cost, safty rating, and torque as the comparison metrics across the different vehicle classes. 
 
 **In your description, address the following questions:
 What metric or metrics are you going to test?**
 I would use mpg, highway fuel efficiency, cost, safty rating, and torque as prilimaniary metrics and would explore others if there were no significant differences. 
 
 **What is the null hypothesis or alternative hypothesis?**
+The null hypothesis is that all of the cars have the same or not significantly different mpg, highway fuel efficiencies, cost, safty ratings and torque. The alternative hypothesis is that they are statistically different from eachother. 
 
 **What statistical test would you use to test the hypothesis? And why?**
+I would use a one-way ANOVA test to complete this analysis to compare the means of a single dependent variable across a single independent variable with multiple groups. This way I could test the means of each metric for MechaCar v the competition. 
 
 **What data is needed to run the statistical test?**
+I would try to collect as much data as I could to have a robust sample size, but would need a minimum of 100 different cars with mpg, highway fuel efficiency, cost, safty ratings, and torque to run the statistical test for MechaCar. 
+
