@@ -48,8 +48,14 @@ For the total summary, Lot 1 and Lot 2, the PSI values are not statistically dif
 
 **Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.**
 
+In order to quantify how the MecahCar performs against the compeition, I would look at mpg, highway fuel efficiency, cost, safty rating, and torque as the comparison metrics. 
+
 **In your description, address the following questions:
 What metric or metrics are you going to test?**
+I would use mpg, highway fuel efficiency, cost, safty rating, and torque as prilimaniary metrics and would explore others if there were no significant differences. 
+
 **What is the null hypothesis or alternative hypothesis?**
+
 **What statistical test would you use to test the hypothesis? And why?**
+
 **What data is needed to run the statistical test?**
